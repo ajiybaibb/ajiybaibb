@@ -48,5 +48,5 @@
 <a href="https://medium.com/@"><img src="https://img.shields.io/badge/-@-000000?style=flat&logo=Medium&logoColor=white"/></a>
 
 </p>
-    ![](/ghpvc/?username=ajiybaibb)
+
     
