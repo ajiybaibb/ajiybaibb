@@ -1,0 +1,15 @@
+{
+  "name": "bufgix",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ajiybaibb/janberdibb",
+  "author": "janberdibb <ajibaibrahimbekirbektas@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1"
+  }
+}
