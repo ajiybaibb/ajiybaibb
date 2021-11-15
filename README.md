@@ -1,4 +1,4 @@
-
+![](https://komarev.com/ghpvc/?username=ajiybaibb)
 <p align="center">
 <a href="https://github.com/ajiybaibb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajiybaibb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
