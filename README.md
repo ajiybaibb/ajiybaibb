@@ -27,7 +27,7 @@
 </p>
 
 ### 🔖 &nbsp;My Last Articles
-- hi[](https://ajiybanesij.medium.com/influxdb-ve-grafana-ile-monitoring-1-73a6de0b4445)
+- [](https://ajiybanesij.medium.com/influxdb-ve-grafana-ile-monitoring-1-73a6de0b4445)
 - [](https://ajiybanesij.medium.com/influxdb-ve-grafana-ile-monitoring-2-veri-g%C3%B6rselle%C5%9Ftirme-d1127bc2691)
 - [](https://ajiybanesij.medium.com/influxdb-ve-grafana-ile-monitoring-3-dinamik-tablo-yap%C4%B1s%C4%B1-7438349353aa)
 - [](https://ajiybanesij.medium.com/mongodb-ile-geospatial-i%CC%87%C5%9Flemleri-1-a43a44a823de)
