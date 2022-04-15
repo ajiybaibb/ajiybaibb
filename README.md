@@ -34,19 +34,4 @@
 - [](https://ajiybanesij.medium.com/gcp-cloud-run-%C3%BCzerine-container-deploy-edilmesi-7256df0e996a)
 
 
-<br/>
-
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://janberdibb.com/"><img src="https://img.shields.io/badge/-janberdibb-3423A6?style=flat&logo=App-Store&logoColor=white"/></a>
-<a href="https://twitter.com/janberdibb"><img src="https://img.shields.io/badge/-@janberdibb-1da1f2?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ibrahim-bekir-bekta%C5%9F-54aa651bb/"><img src="https://img.shields.io/badge/-ibrahim bekir bektaş-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ajibaibrahimbekirbektas@gmail.com"><img src="https://img.shields.io/badge/-ajibaibrahimbekirbektas@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/janberd.ibb/"><img src="https://img.shields.io/badge/-@janberd.ibb-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://medium.com/@"><img src="https://img.shields.io/badge/-@-000000?style=flat&logo=Medium&logoColor=white"/></a>
-
-</p>
-
-    
+<br/>    
