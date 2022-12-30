@@ -2,8 +2,8 @@
   "name": "bufgix",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/ajiybaibb/janberdibb",
-  "author": "janberdibb <ajibaibrahimbekirbektas@gmail.com>",
+  "repository": "https://github.com/ajiybaibb/ajiybaibb",
+  "author": "ajiybaibb <ajibaibrahimbekirbektas@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "node index.js"
